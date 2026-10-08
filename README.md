@@ -5,8 +5,8 @@ This project builds a neural network for handwritten digit recognition using the
 
 Rather than evaluating the model only using accuracy, this project also investigates:
 
-Which handwritten digits are most commonly confused
-How confident the model is when making incorrect predictions
-How image noise affects classification performance
-How image rotation affects model performance
+Which handwritten digits are most commonly confused? 
+How confident the model is when making incorrect predictions? 
+How image noise affects classification performance? 
+How image rotation affects model performance? 
 Whether modifying the neural network architecture improves performance and robustness
