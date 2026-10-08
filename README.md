@@ -1,4 +1,4 @@
-#Robustness and Failure Analysis of a Neural Network on MNIST
+**Robustness and Failure Analysis of a Neural Network on MNIST**
 
 Objective
 This project builds a neural network for handwritten digit recognition using the MNIST dataset.
